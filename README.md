@@ -10,7 +10,7 @@ Da oltre trent'anni mi occupo di analisi, pianificazione, progettazione e implem
 
 ## Software
 
-- **[DE.A.S.](https://www.geonetwork.it/deas/)** — il software leader in Italia per le **dichiarazioni di successione telematica** e le **domande di voltura catastale**
+- **[DE.A.S.](https://www.geonetwork.it/deas/)** — il software leader in Italia per le **dichiarazioni di successione** e le **domande di voltura catastale**
 - **[Millesimus](https://www.geonetwork.it/millesimus/)** — predisposizione e calcolo delle **tabelle millesimali nei condomini**
 
 ### Suite Euclide (edilizia, sicurezza e lavori pubblici)
